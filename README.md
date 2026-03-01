@@ -33,3 +33,4 @@ Se você tiver algum projeto em que eu possa contribuir ou quiser trocar conheci
 <div> 
   <a href="https://www.instagram.com/pedrohnunez" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
+<div class="tenor-gif-embed" data-postid="9632464494680586025" data-share-method="host" data-aspect-ratio="1.77857" data-width="100%"><a href="https://tenor.com/view/lawliet-gif-9632464494680586025">Lawliet GIF</a>from <a href="https://tenor.com/search/lawliet-gifs">Lawliet GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
