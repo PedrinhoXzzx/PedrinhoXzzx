@@ -19,5 +19,3 @@ Se você tiver algum projeto em que eu possa contribuir ou quiser trocar conheci
 📧 Email: pedrohnunes.profissional@gmail.com
 
 👤 Pode me chamar de Pedro mesmo!
-
-Estou sempre aberto a aprender, colaborar e crescer na área de segurança cibernética 🚀
